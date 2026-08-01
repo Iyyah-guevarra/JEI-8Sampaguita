@@ -1,5 +1,5 @@
 # JEI-8Sampaguita
-group repository link of Legion, Acorda, and Guevarra
-SY 2026 - 2027
-group project proposal
+Group repository link of Legion, Acorda, and Guevarra.
+S.Y. 2026 - 2027.
+Group project proposal
 <proposal here>
