@@ -26,3 +26,9 @@ Would you like to input another date? [y/n]: n
 
 Reminder for 'TEST CODE RUN' for today, set on [date when the reminder was made]
 Goodbye!
+
+
+##Contributors (before starting on the project):
+-Legion [wrote this entire thing]
+-Guevarra [responsible for this entire idea]
+-Acorda [emotional support]
