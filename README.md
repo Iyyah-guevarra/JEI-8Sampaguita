@@ -1,5 +1,7 @@
 # JEI-8Sampaguita
-Group repository link of Legion, Acorda, and Guevarra.
-S.Y. 2026 - 2027.
-Group project proposal
-<proposal here>
+
+#Description
+#[instructions on how to run the program]
+#[inputs needed]
+#sample output
+#author/s: Legion, Acorda, Guevarra
