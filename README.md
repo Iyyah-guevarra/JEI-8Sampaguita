@@ -23,5 +23,6 @@ Enter a reminder for 8/19/23: TEST CODE RUN
 Would you like to input another date? [y/n]: n
 
 *on date
+
 Reminder for 'TEST CODE RUN' for today, set on [date when the reminder was made]
 Goodbye!
