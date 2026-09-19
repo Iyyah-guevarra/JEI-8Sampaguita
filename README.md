@@ -22,23 +22,37 @@ Input settings toggle = output change of said setting for user convenience
 Input to show schedule = Output schedule with reminders
 
 Logic Plan:
+
 START 
+
 Output “Hello! What do we want to do today?”
+
 Output “a. Schedule /n b. Reminder /n c. Settings”
-Input choice 
+
+Input choice
+
 If choice = a 
+
 Output schedule
+
 If choice = b
+
 Output “Enter date and time”
+
 Input dt
 
 #WHEN SAID DATE AND TIME COMES 
 
 Output “Ding dong! Reminder to do this.”
 
+
 If choice = c 
+
 Output “What setting do you want to change?”
+
 Input settingchange
+
 Output “Okay!”
+
 
 END
