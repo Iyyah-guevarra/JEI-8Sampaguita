@@ -31,7 +31,9 @@ Output schedule
 If choice = b
 Output “Enter date and time”
 Input dt
+
 #WHEN SAID DATE AND TIME COMES 
+
 Output “Ding dong! Reminder to do this.”
 
 If choice = c 
